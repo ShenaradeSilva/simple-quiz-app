@@ -91,13 +91,13 @@ body {
     border-color: rgb(134, 134, 252);
 }
 
-.answer-btn correct {
+.answer-btn.correct {
     background-color: rgb(128, 255, 128);
     border-color: rgb(76, 158, 76);
     color: rgb(0, 200, 0);
 }
 
-.answer-btn incorrect {
+.answer-btn.incorrect {
     background-color: rgb(255, 128, 128);
     border-color: rgb(158, 76, 76);
     color: rgb(200, 23, 0);
